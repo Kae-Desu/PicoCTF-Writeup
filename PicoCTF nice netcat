@@ -1,7 +1,12 @@
 Challange name: Nice Netcat
+Category: General Skills
 Points: 15
 Author: Syreal
 Description: There is a nice program that you can talk to by using this command in a shell: '$ nc mercury.picoctf.net 35652', but it doesn't speak English...
+
+Hints:
+1. You can practice using netcat with this picoGym problem: what's a netcat?
+2. You can practice reading and writing ASCII with this picoGym problem: Let's Warm Up
 
 Completion step:
 1. run your webshell
